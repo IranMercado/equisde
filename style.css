@@ -1,0 +1,32 @@
+h2{
+    color: rgb(238, 228, 228);
+    font-size: x-large;
+    font-family: cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 100ch;
+    border-style: groove;
+    background-color: rgb(23, 27, 21);
+}
+
+h1{
+    color: rgb(245, 220, 220);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(37, 39, 38);
+    border-radius: 100ch;
+    border-color: rgb(155, 158, 158);
+    border-style: groove;
+
+}
+input{
+    background-color: rgb(226, 228, 226);
+    border-radius: 10ch;
+
+}
+
+
+
+
+
+
+
+
